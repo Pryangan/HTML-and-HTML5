@@ -1,0 +1,1 @@
+The main HTML5 tag helps search engines and other developers find the main content of your page.
